@@ -1,0 +1,90 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    padding: 12x;
+    margin: 12px;
+}
+
+header {
+    border: 2px solid rgba(68, 68, 240, 0.938);
+}
+
+.links {
+    float: right;
+    padding: 12px;
+    margin: 12px;
+}
+
+.links a {
+    padding: 18px;
+    text-decoration: none;
+    color: rgba(68, 68, 240, 1);
+}
+
+marquee {
+    color: red;
+    font-size: 24px;
+}
+
+input,
+label,
+h2 {
+    padding: 4px 12px;
+    margin: 2px 16px;
+}
+
+form {
+    border: 1px solid black;
+    padding: 12px;
+    margin-left: 12px;
+}
+
+.login {
+    background-color: white;
+    border: 5px solid rgb(12, 12, 223);
+    padding: 12px;
+}
+
+.news {
+    background-color: rgba(0, 0, 255, 0.384);
+    padding: 16px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.news h2 {
+    color: red;
+    background-color: white;
+    text-align: center;
+}
+
+.qlinks {
+    background-color: white;
+    border: 4px solid blue;
+    text-align: center;
+    padding: 12px;
+}
+
+.qlinks h2 {
+    background-color: red;
+}
+
+.qlinks a {
+    margin-top: 12px;
+}
+
+.tbl2 {
+    padding: 14px;
+    border: 2px solid black;
+    border-bottom: none;
+    padding-bottom: 0;
+    font-family: cursive;
+}
+
+.bdr {
+    border-right: 2px solid gray;
+}
